@@ -16,9 +16,9 @@
  ```git
  git clone https://github.com/levigratico/martrust-exam.git
  ```
- 2. Run maven install
+ 2. Run maven command
  ```maven
- mvn clean install
+ mvn clean spring-boot:run
  ```
 
 ## Test API via Swagger UI
