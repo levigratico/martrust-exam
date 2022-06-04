@@ -1,6 +1,4 @@
 # Martrust Exam
-
-## Overview
  This is a project api with relation to exchange rate of all the currencies in the world. I used the <https://exchangeratesapi.io/> for the rates provider.
 
 ## Endpoints
